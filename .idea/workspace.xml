@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fb2b947-6447-40ab-af07-c73c0b282afb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/AddCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/AddDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/AddEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/AddRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/CustomerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/DriverInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/EmployeeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/HotelManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/ManagerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/Reception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/SearchRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/UpdateCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/UpdateRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/eight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/eleven.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/fifith.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/fifth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/fifth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/first.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/fourth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/nine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/second.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/seventh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/sixth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/tenth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/third.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/twelve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="ClassMain" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IMZMTA/HotelManagement.git",
+    "accountId": "afc35b20-f382-4fda-992e-a783630ac7d5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2elbrGnTHG0iau7HIoxoCR8QMcl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddCustomer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddRooms.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckOut.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomerInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dashboard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Department.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DriverInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HotelManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Room.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpdateCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpdateRoom.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Apache Software Foundation/jstl-1.2_1.jar/rs2xml.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.HotelManagementSystem">
+    <configuration name="CheckOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.CheckOut" />
+      <module name="HotelManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DriverInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.DriverInfo" />
+      <module name="HotelManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.HotelManagementSystem" />
+      <module name="HotelManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.UpdateCheck" />
+      <module name="HotelManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.UpdateRoom" />
+      <module name="HotelManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HotelManagementSystem" />
+        <item itemvalue="Application.CheckOut" />
+        <item itemvalue="Application.DriverInfo" />
+        <item itemvalue="Application.UpdateRoom" />
+        <item itemvalue="Application.UpdateCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb2b947-6447-40ab-af07-c73c0b282afb" name="Changes" comment="" />
+      <created>1712482311717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712482311717</updated>
+      <workItem from="1712482312861" duration="6866000" />
+      <workItem from="1712500914470" duration="6022000" />
+      <workItem from="1712636311774" duration="2634000" />
+      <workItem from="1712656794257" duration="10015000" />
+      <workItem from="1712678573050" duration="4169000" />
+      <workItem from="1712684789660" duration="3030000" />
+      <workItem from="1712726061802" duration="7784000" />
+      <workItem from="1712909703842" duration="9660000" />
+      <workItem from="1713027336724" duration="7544000" />
+      <workItem from="1713080133493" duration="681000" />
+      <workItem from="1713083524081" duration="419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/project/Dashboard.java</url>
+          <line>8</line>
+          <properties field="user" class="project.Dashboard" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/project/DriverInfo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
